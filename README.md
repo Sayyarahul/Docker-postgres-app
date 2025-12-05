@@ -136,3 +136,5 @@ and copied the required files and running inside the container.
 - Using Docker Compose
 - Pushing a real project to GitHub
 
+### Result ###
+![Screenshot](<Screenshot 2025-12-05 095057.png>)
